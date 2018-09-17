@@ -1,0 +1,27 @@
+_repo: Galicia-the-Switzerland-of-Spain_52538
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Meakin, Annette M. B.
+    alias: Meakin, Annette Mary Budgett
+    birthdate: 1867
+    deathdate: 1959
+    gutenberg_agent_id: '46913'
+    url: http://www.gutenberg.org/2009/agents/46913
+    wikipedia: https://en.wikipedia.org/wiki/Annette_Meakin
+description: ''
+gutenberg_issued: '2016-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52538'
+  lccn: 09025130
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Galicia (Spain : Region)'
+- !lcc 'DP'
+- GITenberg
+title: Galicia, the Switzerland of Spain
+url: http://www.gutenberg.org/ebooks/52538
